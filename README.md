@@ -1,3 +1,9 @@
+## Proof of Work
+
+![push1](https://github.com/user-attachments/assets/508c0daf-9f07-45e3-a3f8-427f2011fd37)
+
+![push2](https://github.com/user-attachments/assets/d8f2b0f7-f508-4dff-a088-a7346deb5cc2)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
