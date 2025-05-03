@@ -1,4 +1,4 @@
-## Proof of Work
+## ScreenShots of Push Notification
 
 ![push1](https://github.com/user-attachments/assets/508c0daf-9f07-45e3-a3f8-427f2011fd37)
 
